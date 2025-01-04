@@ -1,0 +1,2 @@
+- Wiki (like Confluence) : https://github.com/sreegithub19/discussions_/wiki
+- Issues (like JIRA) : https://github.com/sreegithub19/discussions_/projects
