@@ -12,3 +12,5 @@ icon: wagon-covered
 * Issues (like JIRA) : [https://github.com/sreegithub19/discussions\_/projects](https://github.com/sreegithub19/discussions_/projects)&#x20;
 
 [test](test/)
+
+Confluence page which has the synced Github repo embedded: [https://sreedhar--k.atlassian.net/wiki/x/AYAwB](https://sreedhar--k.atlassian.net/wiki/x/AYAwB)
